@@ -1,0 +1,31 @@
+_repo: The-Little-Clown_31371
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cobb, Thomas
+    birthdate: 1854
+    deathdate: 1932
+    gutenberg_agent_id: '7918'
+    url: http://www.gutenberg.org/2009/agents/7918
+description: ''
+gutenberg_issued: '2010-02-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31371'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Circus -- Juvenile fiction'
+- !lcsh 'Runaway children -- Juvenile fiction'
+- !lcsh 'Children -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Clowns -- Juvenile fiction'
+- !lcsh 'Students -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Parent and child -- Juvenile fiction'
+title: The Little Clown
+url: http://www.gutenberg.org/ebooks/31371
